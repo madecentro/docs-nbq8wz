@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-kco91z.pulaucuan.online/sitemap.xml
